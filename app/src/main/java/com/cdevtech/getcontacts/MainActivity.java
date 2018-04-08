@@ -34,7 +34,6 @@ public class MainActivity extends AppCompatActivity {
     // Provides access to other applications Content Providers
     ContentResolver resolver;
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
