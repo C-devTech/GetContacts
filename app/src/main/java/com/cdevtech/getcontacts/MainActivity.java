@@ -258,5 +258,4 @@ public class MainActivity extends AppCompatActivity {
 
         contactsTextView.setText(contactList);
     }
-
 }
